@@ -1,0 +1,18 @@
+Ctrl + Shift + L: Selecciona todas las ocurrencias de la palabra bajo el cursor.
+Ctrl + D: Selecciona la siguiente ocurrencia de la palabra bajo el cursor.
+Ctrl + P: Abre el menú de navegación rápido para buscar archivos.
+Ctrl + G: Va a una línea específica.
+Ctrl + K + C: comentar lineas de codigo
+Ctrl + K + U: des comentar lineas de codigo
+
+
+
+RESPONSABILIDADES DE LAS CLASES
+
+diferentes tipos de metodos => se clasifican en 3 depende de las operaciones que se realizan 
+
+
+metodo CONSTRUCTOR => "construir" responsabilida de inicializar los valores de los atributos de un objeto
+
+metodos MODIFICADORES => "hacer" tienen la responsabilidad de cambiar los valores de los objetos de la clase, son los responsables del hacer
+metodos ANALIZADORES => "saber" tiene la responsabilidad de ,responsables del saber 
